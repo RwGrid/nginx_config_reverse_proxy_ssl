@@ -16,5 +16,6 @@ This Repository is a simple implementation of a reverse proxy and https configur
 > docker-compose up -d inside the shell
 
 ## Watch out for
+- Always set it up as the last step after finishing development
 - If u Have 2 services that requires port 80, remember to change the port number of the docker compose inside the docker daemon and in the outside host 
   port : 81:81
