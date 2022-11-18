@@ -25,7 +25,8 @@ Kudos for  `ChristianLempa` at https://github.com/ChristianLempa/cheat-sheets/bl
 > docker-compose up -d inside the shell
 
 <h2>Reverse Proxy Only</h2>
-![code_nginx](https://user-images.githubusercontent.com/33643615/202690568-44bd74f3-0708-4ad9-9cc1-f4b6b387edd5.png)
+![output-onlinepngtools](https://user-images.githubusercontent.com/33643615/202691176-0cfc9cda-5916-486c-99ae-0dc48a45ca14.png)
+
 
 ## Watch out for
 - Always set it up as the last step after finishing development
