@@ -5,6 +5,8 @@
 
 This Repository is a simple implementation of a reverse proxy and https configuration of self signed certificates as well as instructions to handle the preflight problem of react and 'Access-Control-Allow-Origin'.
 
+Kudos for  `ChristianLempa` at https://github.com/ChristianLempa/cheat-sheets/blob/c199f41e121e71a96e45a3a4bb2921dfedb35348/misc/ssl-certs.md for providing an easy to use repo for creating self signed certs. 
+
 ## When To Use
 
 - Home setup and u don't want to buy a domain but u want https traffic
@@ -12,7 +14,7 @@ This Repository is a simple implementation of a reverse proxy and https configur
 - Configure react to connect to ur backend through nginx
 
 ## Dependencies
-
+- OpenSSL using `https://github.com/ChristianLempa/cheat-sheets/blob/c199f41e121e71a96e45a3a4bb2921dfedb35348/misc/ssl-certs.md`
 - Docker
 - Docker-Compose
 - Portainer(better to have)
