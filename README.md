@@ -1,5 +1,5 @@
 # nginx_config_reverse_proxy_ssl
-![cmatrix-2](https://user-images.githubusercontent.com/33643615/202686790-388f9a41-232e-4396-a8a0-82265832eb90.png)
+![cmatrix-1](https://user-images.githubusercontent.com/33643615/202688700-c3ad805d-5ead-4597-a4b3-c7fb4b020021.png)
 ![Nginx_Reverse_Proxy_SSL(1)](https://user-images.githubusercontent.com/33643615/202673538-1ae0b437-c8b2-41c4-8dad-b202ac4e68f7.png)
 <h1>OverView</h1>
 
