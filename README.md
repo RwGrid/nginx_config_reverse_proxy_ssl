@@ -19,6 +19,7 @@ Kudos for  `ChristianLempa` at https://github.com/ChristianLempa/cheat-sheets/bl
 - Portainer(better to have)
 
 <h2>Usage</h2>
+> create certs
 > docker-compose up -d inside the shell
 
 ## Watch out for
