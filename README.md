@@ -26,6 +26,7 @@ Kudos for  `ChristianLempa` at https://github.com/ChristianLempa/cheat-sheets/bl
 
 <h2>Reverse Proxy Only</h2>
 ![output-onlinepngtools](https://user-images.githubusercontent.com/33643615/202691176-0cfc9cda-5916-486c-99ae-0dc48a45ca14.png)
+![OpenSea_Automate_Refresh](https://user-images.githubusercontent.com/33643615/202691277-ec19f917-10e8-4956-9470-465122d19059.png)
 
 
 ## Watch out for
