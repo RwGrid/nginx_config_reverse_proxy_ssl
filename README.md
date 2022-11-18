@@ -27,7 +27,7 @@ Kudos for  `ChristianLempa` at https://github.com/ChristianLempa/cheat-sheets/bl
 <h2>Reverse Proxy Only</h2>
 
 
-![cmatrix-5](https://user-images.githubusercontent.com/33643615/202692093-5ea72479-bc22-4153-b96a-862de9601819.png)
+![code_nginx_reverse](https://user-images.githubusercontent.com/33643615/202692214-f67653a3-8484-40d7-9215-445e19285961.png)
 
 ## Watch out for
 - Always set it up as the last step after finishing development
