@@ -5,6 +5,12 @@
 
 This Repository is a simple implementation of a reverse proxy and https configuration of self signed certificates as well as instructions to handle the preflight problem of react and 'Access-Control-Allow-Origin'.
 
+## When To Use
+
+- Home setup and u don't want to buy a domain but u want https traffic
+- Perform A stack of security on the nginx instead of the website
+- Configure react to connect to ur backend through nginx
+
 ## Dependencies
 
 - Docker
