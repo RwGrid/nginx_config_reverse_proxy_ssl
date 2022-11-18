@@ -5,10 +5,13 @@
 
 This Repository is a simple implementation of a reverse proxy and https configuration of self signed certificates as well as instructions to handle the preflight problem of react and 'Access-Control-Allow-Origin'.
 
-## Features
+## Dependencies
 
-- Import a HTML file and watch it magically convert to Markdown
-- Drag and drop images (requires your Dropbox account be linked)
-- Import and save files from GitHub, Dropbox, Google Drive and One Drive
-- Drag and drop markdown and HTML files into Dillinger
-- Export documents as Markdown, HTML and PDF
+- Docker
+- Docker-Compose
+- Portainer(better to have)
+
+
+## Watch out for
+- If u Have 2 services that requires port 80, remember to change the port number of the docker compose inside the docker daemon and in the outside host 
+  port : 81:81
