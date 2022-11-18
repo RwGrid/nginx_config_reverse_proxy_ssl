@@ -12,13 +12,3 @@ services:
       - ./index.html:/usr/share/nginx/html/index.html:rw
       - ./certs:/etc/nginx/cert_files
     restart: unless-stopped
-# for reverse proxy
-#https://www.youtube.com/watch?v=ZmH1L1QeNHk
-#341  docker-compose up -d
-# 342  apt install openssl
-#https://www.digitalocean.com/community/tutorials/openssl-essentials-working-with-ssl-certificates-private-keys-and-csrs
-# 343  sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout ./nginx-selfsigned.key -out ./nginx-selfsigned.crt
-# 344  docker-compose up -d
-# 345  cp ./certs /home/ali/react dir/InsertData/src/pages/Mayadeen
-# 346  cp ./certs '/home/ali/react dir/InsertData/src/pages/Mayadeen'
-# 347  cp -r ./certs '/home/ali/react dir/InsertData/src/pages/Mayadeen'
